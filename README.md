@@ -21,7 +21,7 @@ Aquí están las herramientas con las que trabajo habitualmente.
 
 | Categoría | Lenguajes y Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | Java, JavaScript, SQL, HTML5, CSS3 |
+| **Lenguajes** | Java, JavaScript, TypeScript, SQL, HTML5, CSS3 |
 | **Backend/APIs** | Node.js, Express |
 | **Frontend/UI** | **Angular**,React,Tailwind |
 | **Bases de Datos** | PostgreSQL, MySQL, MongoDB |
