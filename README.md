@@ -23,8 +23,8 @@ Aquí están las herramientas con las que trabajo habitualmente.
 | :--- | :--- |
 | **Lenguajes** | Java, JavaScript, TypeScript, SQL, HTML5, CSS3 |
 | **Backend/APIs** | Node.js, Express |
-| **Frontend/UI** | **Angular**,React,Tailwind |
-| **Bases de Datos** | PostgreSQL, MySQL, MongoDB |
+| **Frontend/UI** | **Angular**, React, Tailwind |
+| **Bases de Datos** | PostgreSQL, SQLServer, MongoDB |
 | **Herramientas DevOps** | **Git**, GitHub, Docker (básico), GoogleCloud (básico) |
 | **Metodologías** | Scrum, Kanban |
 
