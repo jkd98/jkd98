@@ -44,7 +44,8 @@ Mi portafolio refleja mi capacidad para desarrollar proyectos completos, desde l
 > - Diseño e implementación del modelo de base de datos
 > - Desarrollo del frontend para módulos de autenticación (login, registro, recuperación de contraseña)
 >
-> [▶️ Ver Repositorio](https://github.com/[tu_usuario]/[nombre_del_repo])
+> [▶️ Ver Front end Repositorio](https://github.com/jkd98/back-basquet)
+> [▶️ Ver Back end Repositorio](https://github.com/jkd98/front-basquet)
 
 #### 2. [Nombre del Segundo Mejor Proyecto]
 > Aplicación [menciona tipo de app, ej: web/móvil] para [menciona su función].
