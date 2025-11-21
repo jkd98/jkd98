@@ -34,7 +34,7 @@ Aquí están las herramientas con las que trabajo habitualmente.
 
 Mi portafolio refleja mi capacidad para desarrollar proyectos completos, desde la concepción hasta la implementación.
 
-#### 1. [Gestión de Ligas de Basquetbol]
+#### 1. Gestión de Ligas de Basquetbol
 > Sistema integral para administrar ligas deportivas que optimiza la creación de temporadas, registro de equipos y análisis de estadísticas.
 >
 > **Stack:** `NodeJs` / `Express` / `Angular` / `MongoDB`
@@ -54,16 +54,6 @@ Mi portafolio refleja mi capacidad para desarrollar proyectos completos, desde l
 > **Mi Contribución:** Desarrollo del Front-End interactivo y conexión con servicios externos.
 >
 > [▶️ Ver Repositorio](https://github.com/[tu_usuario]/[nombre_del_repositorio_2])
-
----
-
-## 📈 Estadísticas de GitHub (Opcional, pero atractivo)
-
-*Puedes usar herramientas como [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) para generar estas imágenes.*
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[tu_usuario]&show_icons=true&theme=vue-dark&hide_title=true)](https://github.com/[tu_usuario])
-
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[tu_usuario]&layout=compact&theme=vue-dark&hide_title=true)](https://github.com/[tu_usuario])
 
 ---
 
