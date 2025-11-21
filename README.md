@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hola, soy Juan David Lara Robles
 
-<!--
-**jkd98/jkd98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ingeniería en Desarrollo y Gestión de Software
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Perfil Profesional
+
+Estudiante en el último cuatrimestre de **Ingeniería en Desarrollo y Gestión de Software** con una base sólida en el ciclo de desarrollo completo (Full Stack).
+
+Mi enfoque actual es en el desarrollo de aplicaciones web robustas, el diseño de bases de datos relacionales y el uso de metodologías ágiles como **Scrum**.
+
+* 🎓 **Especialización:** Desarrollo Web y Administración de Bases de Datos.
+* 💡 **Buscando:** Oportunidades de prácticas/estancia como **Desarrollador Junior/Becario de Software**.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+Aquí están las herramientas con las que trabajo habitualmente.
+
+| Categoría | Lenguajes y Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | Java, JavaScript, SQL, HTML5, CSS3 |
+| **Backend/APIs** | Node.js, Express |
+| **Frontend/UI** | **Angular**,React,Tailwind |
+| **Bases de Datos** | PostgreSQL, MySQL, MongoDB |
+| **Herramientas DevOps** | **Git**, GitHub, Docker (básico), GoogleCloud (básico) |
+| **Metodologías** | Scrum, Kanban |
+
+---
+
+## 💻 Proyectos Destacados
+
+Mi portafolio refleja mi capacidad para desarrollar proyectos completos, desde la concepción hasta la implementación.
+
+#### 1. [Gestión de Ligas de Basquetbol]
+> Sistema integral para administrar ligas deportivas que optimiza la creación de temporadas, registro de equipos y análisis de estadísticas.
+>
+> **Stack:** `NodeJs` / `Express` / `Angular` / `MongoDB`
+>
+> **Mi Contribución:** 
+> - Desarrollo completo de la lógica de negocio y API REST
+> - Diseño e implementación del modelo de base de datos
+> - Desarrollo del frontend para módulos de autenticación (login, registro, recuperación de contraseña)
+>
+> [▶️ Ver Repositorio](https://github.com/[tu_usuario]/[nombre_del_repo])
+
+#### 2. [Nombre del Segundo Mejor Proyecto]
+> Aplicación [menciona tipo de app, ej: web/móvil] para [menciona su función].
+>
+> **Stack:** `[Lenguaje Principal]`, `[Framework Secundario]`, `[Tecnología Cloud si aplica]`
+>
+> **Mi Contribución:** Desarrollo del Front-End interactivo y conexión con servicios externos.
+>
+> [▶️ Ver Repositorio](https://github.com/[tu_usuario]/[nombre_del_repositorio_2])
+
+---
+
+## 📈 Estadísticas de GitHub (Opcional, pero atractivo)
+
+*Puedes usar herramientas como [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) para generar estas imágenes.*
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=[tu_usuario]&show_icons=true&theme=vue-dark&hide_title=true)](https://github.com/[tu_usuario])
+
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=[tu_usuario]&layout=compact&theme=vue-dark&hide_title=true)](https://github.com/[tu_usuario])
+
+---
+
+## ✉️ Contáctame
+
+* **LinkedIn:** www.linkedin.com/in/juan-david-lara-robles99
+* **Correo Electrónico:** davidlrj9999@gmail.com
