@@ -35,7 +35,7 @@ Aquí están las herramientas con las que trabajo habitualmente.
 Mi portafolio refleja mi capacidad para desarrollar proyectos completos, desde la concepción hasta la implementación.
 
 #### 1. Gestión de Ligas de Basquetbol
-> Sistema integral para administrar ligas deportivas que optimiza la creación de temporadas, registro de equipos y análisis de estadísticas.
+> Aplicación web responsiva para administrar ligas deportivas que optimiza la creación de temporadas, registro de equipos y análisis de estadísticas.
 >
 > **Stack:** `NodeJs` / `Express` / `Angular` / `MongoDB`
 >
@@ -44,17 +44,21 @@ Mi portafolio refleja mi capacidad para desarrollar proyectos completos, desde l
 > - Diseño e implementación del modelo de base de datos
 > - Desarrollo del frontend para módulos de autenticación (login, registro, recuperación de contraseña)
 >
-> [▶️ Ver Front end Repositorio](https://github.com/jkd98/back-basquet)
-> [▶️ Ver Back end Repositorio](https://github.com/jkd98/front-basquet)
+> [▶️ Ver Repositorio - back end](https://github.com/jkd98/back-basquet)
+> [▶️ Ver Repositorio - front end](https://github.com/jkd98/front-basquet)
 
-#### 2. [Nombre del Segundo Mejor Proyecto]
-> Aplicación [menciona tipo de app, ej: web/móvil] para [menciona su función].
+#### 2. Gestión de Inventario
+> Aplicación web progresiva (PWA) de gestion de productos, cliente y proveedores que emite alertas via email al detectar que un producto esta por agotarse.
 >
-> **Stack:** `[Lenguaje Principal]`, `[Framework Secundario]`, `[Tecnología Cloud si aplica]`
+> **Stack:** `NodeJS`, `Express`, `Angular`, `PostgreSQL`, `Vercel`, `Render`, `Netlify`
 >
-> **Mi Contribución:** Desarrollo del Front-End interactivo y conexión con servicios externos.
+> **Mi Contribución:**
+> - Desarrollo del Front-End
+> - Desarrollo del backend
+> - Despliegue en *Render*, *Vercel*, *Netlify*
 >
-> [▶️ Ver Repositorio](https://github.com/[tu_usuario]/[nombre_del_repositorio_2])
+> [▶️ Ver Repositorio - front end](https://github.com/jkd98/front-stores)
+> [▶️ Ver Repositorio - back end](https://github.com/jkd98/back-stores)
 
 ---
 
