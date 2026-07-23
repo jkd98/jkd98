@@ -1,4 +1,4 @@
-# 👋 Hola, soy Juan David Lara Robles
+# 👋 Hola, soy Juan David 
 
 ### Estudiante de Ingeniería en Desarrollo y Gestión de Software
 
